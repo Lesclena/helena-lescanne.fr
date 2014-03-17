@@ -1,29 +1,16 @@
-# Foundation libsass template
+# helena-lescanne.fr
 
-This is a template to start your own project that uses Grunt and libsass!
+Helena lescanne website.
 
-## Requirements
+## Install
 
-You'll need to have the following items installed before continuing.
-
-  * [Node.js](http://nodejs.org): Use the installer provided on the NodeJS website.
-  * [Grunt](http://gruntjs.com/): Run `[sudo] npm install -g grunt-cli`
-  * [Bower](http://bower.io): Run `[sudo] npm install -g bower`
-
-## Quickstart
-
-```bash
-git clone git@github.com:zurb/foundation-libsass-template.git
-npm install && bower install
+```
+npm install
+bower install
 ```
 
-While you're working on your project, run:
+## Build
 
 `grunt`
 
 And you're set!
-
-## Directory Strucutre
-
-  * `scss/_settings.scss`: Foundation configuration settings go in here
-  * `scss/app.scss`: Application styles go here
