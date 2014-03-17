@@ -1,0 +1,32 @@
+$icons-sprite: sprite-map("icons/*.png", $spacing: 50px);
+
+.icon-subject-ending {
+  background: sprite($icons-sprite, checklist, 50%) no-repeat;
+  display: block;
+  height: image-height('icons/checklist.png');
+}
+.icon-subject-conception {
+  background: sprite($icons-sprite, compass, 50%) no-repeat;
+  display: block;
+  height: image-height('icons/compass.png');
+}
+.icon-subject-production {
+  background: sprite($icons-sprite, gears, 50%) no-repeat;
+  display: block;
+  height: image-height('icons/gears.png');
+}
+.icon-message {
+  background: sprite($icons-sprite, message, 50%) no-repeat;
+  display: block;
+  height: image-height('icons/message.png');
+}
+.icon-gantt {
+  background: sprite($icons-sprite, gantt, 50%) no-repeat;
+  display: block;
+  height: image-height('icons/gantt.png');
+}
+.icon-swissknife {
+  background: sprite($icons-sprite, swissknife, 50%) no-repeat;
+  display: block;
+  height: image-height('icons/swissknife.png');
+}

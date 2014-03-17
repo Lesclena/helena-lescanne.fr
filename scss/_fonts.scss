@@ -1,0 +1,21 @@
+// Fonts
+// -----------------------------------------------------------------------------
+@include font-face('Arvo', font-files(
+    'arvo/arvo-regular-webfont.woff', woff,
+    'arvo/arvo-regular-webfont.ttf', ttf,
+    'arvo/arvo-regular-webfont.svg#arvoregular', svg),
+  'arvo/arvo-regular-webfont.eot');
+@include font-face('Quicksand', font-files(
+    'quicksand/quicksand-regular-webfont.woff', woff,
+    'quicksand/quicksand-regular-webfont.ttf', ttf,
+    'quicksand/quicksand-regular-webfont.svg#quicksandregular', svg),
+  'quicksand/quicksand-regular-webfont.eot');
+
+%arvo {
+  font-family: 'Arvo', serif;
+  font-weight: normal;
+}
+%quicksand {
+  font-family: 'Quicksand', serif;
+  font-weight: normal;
+}
