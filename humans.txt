@@ -1,8 +1,12 @@
-/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
-/* zurb.com */
 /* humanstxt.org */
+/* TEAM */
+Your title: 18 rue Divona.
+Site: cyril@18ruedivona.eu, http://18ruedivona.eu
+Twitter: @magiccyril
+Location: Bordeaux, France.
+
+                        [...]
 
 /* SITE */
-  Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
-  Software: Coda, Textmate, Git
+Standards: HTML5, CSS3
+Components: Zrub Foundation 5, AngularJS.
