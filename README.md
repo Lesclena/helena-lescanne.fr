@@ -1,6 +1,6 @@
 # helena-lescanne.fr
 
-Helena lescanne website.
+Helena Lescanne website.
 
 ## Install
 
